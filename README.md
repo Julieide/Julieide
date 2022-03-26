@@ -1,6 +1,6 @@
 ### Olá! Sou Julieide Simões 👋
 
-- 🔭 Atualmente trabalho com front-end e as vezes se aventuro no back-end.
+- 🔭 Atualmente trabalho com front-end e as vezes me aventuro no back-end.
 - 🌱 Aprendendo a cada dia...
 <div align="center">
   <a href="https://github.com/julieide">
