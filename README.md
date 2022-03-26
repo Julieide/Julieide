@@ -1,7 +1,7 @@
 ### Olá! Sou Julieide Simões 👋
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estudando Vue.js
+- 🔭 Atualmente trabalho com front-end e as vezes se aventuro no back-end.
+- 🌱 Aprendendo a cada dia...
 <div align="center">
   <a href="https://github.com/julieide">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julieide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
